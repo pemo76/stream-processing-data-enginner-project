@@ -1,0 +1,9 @@
+{
+	"name": "covid-report20check-adf",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "73e6f434-075f-490e-bfa6-709ef634b6ea",
+		"tenantId": "f1fa2bb3-a25c-482f-a57f-3a8c09e09cb1"
+	}
+}
